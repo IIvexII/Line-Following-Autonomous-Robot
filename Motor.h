@@ -38,4 +38,5 @@ class Motor
     {
       analogWrite(speedControl,s); 
     }
+
 };
