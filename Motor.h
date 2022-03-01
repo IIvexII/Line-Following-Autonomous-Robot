@@ -4,6 +4,7 @@ class Motor
     int pos;
     int neg;
     int speedControl;
+    // i have changed it
     
     // Constructor
     Motor(int p, int n, int s): pos(p), neg(n), speedControl(s) 

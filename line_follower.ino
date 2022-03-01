@@ -1,8 +1,6 @@
 #include "Motor.h"
 #include "Sensor.h"
 
-cout << "Hello";
-
 Sensor leftSensor(2), middleSensor(3), rightSensor(4);
 Motor leftMotor(7, 8, 6);
 Motor rightMotor(13, 12 , 11);
